@@ -1,4 +1,4 @@
-Base docker image with Ubuntu GNOME.
+### Base docker image with Ubuntu GNOME.
 
 Use it by putting this at the start of your `Dockerfile`:
 
