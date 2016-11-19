@@ -1,2 +1,2 @@
 #!/bin/bash
-docker push hugojosefson/ubuntu-gnome:16.04
+docker push hugojosefson/ubuntu-gnome:16.10

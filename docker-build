@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t hugojosefson/ubuntu-gnome:16.04 .
+docker build -t hugojosefson/ubuntu-gnome:16.10 .
