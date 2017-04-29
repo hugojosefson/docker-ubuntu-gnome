@@ -1,4 +1,4 @@
-FROM ubuntu:16.10
+FROM ubuntu:17.04
 MAINTAINER Hugo Josefson <hugo@josefson.org>
 
 RUN echo Packages last updated 2016-11-19.
