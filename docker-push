@@ -1,2 +1,2 @@
-#!/bin/bash
-docker push hugojosefson/ubuntu-gnome:17.04
+#!/usr/bin/env bash
+docker push hugojosefson/ubuntu-gnome:18.10
