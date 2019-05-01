@@ -1,4 +1,4 @@
-FROM ubuntu:18.10
+FROM ubuntu:19.04
 MAINTAINER Hugo Josefson <hugo@josefson.org>
 
 RUN echo Packages last updated 2019-01-02.

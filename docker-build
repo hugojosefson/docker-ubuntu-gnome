@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-docker build -t hugojosefson/ubuntu-gnome:18.10 .
+docker build -t hugojosefson/ubuntu-gnome:19.04 .

@@ -3,5 +3,5 @@
 Use it by putting this at the start of your `Dockerfile`:
 
 ```Dockerfile
-FROM hugojosefson/ubuntu-gnome:18.10
+FROM hugojosefson/ubuntu-gnome:19.04
 ```
